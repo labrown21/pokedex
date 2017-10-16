@@ -22,6 +22,7 @@
 		08D42C231F944A30004E3D03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08D42C261F944A30004E3D03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08D42C281F944A30004E3D03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08D42C2E1F944E88004E3D03 /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				08D42C1C1F944A30004E3D03 /* AppDelegate.swift */,
 				08D42C1E1F944A30004E3D03 /* ViewController.swift */,
+				08D42C2E1F944E88004E3D03 /* pokemon.csv */,
 				08D42C201F944A30004E3D03 /* Main.storyboard */,
 				08D42C231F944A30004E3D03 /* Assets.xcassets */,
 				08D42C251F944A30004E3D03 /* LaunchScreen.storyboard */,
